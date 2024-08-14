@@ -125,7 +125,7 @@ MaxGasPriceWei = 0
 URI = "executor:5062"
 
 [Executor]
-URI = "executor:5071"
+URI = "cdk-validium-executor:5071"
 MaxResourceExhaustedAttempts = 3
 WaitOnResourceExhaustion = "1s"
 MaxGRPCMessageSize = 100000000
